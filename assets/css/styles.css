@@ -1,0 +1,50 @@
+*
+
+body {
+    width: auto;
+}
+
+header div {
+    text-align: center;
+    background-color: rgb(250, 240, 249);
+}
+
+header img {
+    display: inline-block;
+    width: 20%;
+    border-radius: 50%;
+    border: solid 2px black;
+}
+
+header .resumenm {
+    margin: auto;
+    width: 50%;
+}
+
+.start {
+    background-color: rgba(228, 247, 255, 0.664);
+}
+
+.test1 {
+    color: rgb(248, 96, 58);
+}
+
+.test2 {
+    color: rgb(64, 92, 250);
+}
+
+.test3 {
+    color: rgb(169, 20, 255);
+}
+
+.mid {
+    background-color: rgba(255, 248, 240, 0.877);
+}
+
+.bottom {
+    background-color: rgb(216, 250, 239);
+}
+
+footer {
+    background-color: rgba(0, 0, 0, 0.137);
+}
